@@ -10,8 +10,13 @@
     <Project Path="Tyuiu.YampolskyMO.Sprint1.Task1.V18/Tyuiu.YampolskyMO.Sprint1.Task1.V18.csproj" Id="879890c8-0b75-416b-b537-079e8981bd8c" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="Tyuiu.YampolskyMO.Sprint1.Task2.V29.Test/Tyuiu.YampolskyMO.Sprint1.Task2.V29.Test.csproj" Id="e7d3e96c-df20-4ea6-b1d3-595060968d1a" />
     <Project Path="Tyuiu.YampolskyMO.Sprint1.Task2.V29.Lib/Tyuiu.YampolskyMO.Sprint1.Task2.V29.Lib.csproj" Id="7ef291d0-26fb-4fb3-b7a3-7819524bf4c6" />
+    <Project Path="Tyuiu.YampolskyMO.Sprint1.Task2.V29.Test/Tyuiu.YampolskyMO.Sprint1.Task2.V29.Test.csproj" Id="e7d3e96c-df20-4ea6-b1d3-595060968d1a" />
     <Project Path="Tyuiu.YampolskyMO.Sprint1.Task2.V29/Tyuiu.YampolskyMO.Sprint1.Task2.V29.csproj" Id="e2f0a5cc-1a8e-43ae-8482-f8f4de783d2e" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.YampolskyMO.Sprint1.Task3.V12.Lib/Tyuiu.YampolskyMO.Sprint1.Task3.V12.Lib.csproj" Id="1899055f-f9ab-4a2d-bd7c-dbebef8f907a" />
+    <Project Path="Tyuiu.YampolskyMO.Sprint1.Task3.V12.Test/Tyuiu.YampolskyMO.Sprint1.Task3.V12.Test.csproj" Id="6b64a33c-9b15-4195-9fac-494ad8c375f3" />
+    <Project Path="Tyuiu.YampolskyMO.Sprint1.Task3.V12/Tyuiu.YampolskyMO.Sprint1.Task3.V12.csproj" Id="2791005c-9607-4c1a-9daa-fac2607271c9" />
   </Folder>
 </Solution>
